@@ -1,0 +1,37 @@
+Project Title: Operation Elevate
+Columns:
+Backlog
+
+Task 1: [Description]
+Task 2: [Description]
+Task 3: [Description]
+To Do
+
+Task 1: [Description]
+Task 2: [Description]
+Task 3: [Description]
+In Progress
+
+Task 1: [Description]
+Task 2: [Description]
+Task 3: [Description]
+Review
+
+Task 1: [Description]
+Task 2: [Description]
+Task 3: [Description]
+Done
+
+Task 1: [Description]
+Task 2: [Description]
+Task 3: [Description]
+How to Use:
+Backlog: List all potential tasks and ideas here. These are items that need to be addressed but are not yet prioritized.
+
+To Do: Move tasks from the Backlog to the To Do column when they are prioritized and ready to be started.
+
+In Progress: Tasks currently being worked on should be moved here. This column helps track active work.
+
+Review: Completed tasks move here for review or testing. This ensures quality and completeness before finalization.
+
+Done: Once tasks pass review, move them to Done. This column tracks completed work and provides a visual representation of progress.
